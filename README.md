@@ -59,6 +59,7 @@ To run the project, follow these steps:
 ## 📸 Screenshots
 =====================================================
 
+<img width="1585" height="773" alt="Screenshot 2025-08-09 060333" src="https://github.com/user-attachments/assets/43f148ab-14ed-4282-a92b-44574d49be11" />
 
 
 
